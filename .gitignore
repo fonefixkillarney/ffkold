@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+*.log
+backup-*
+scrape-checkpoint.json
+scrape-report.json
+supplier-sync-report.json
+supplier-changes.json

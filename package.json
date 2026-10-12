@@ -1,0 +1,12 @@
+{
+  "name": "ffk-tech-combined",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "start": "node scripts/start.mjs",
+    "test": "node --test scripts/gateway.test.mjs",
+    "smoke": "node scripts/smoke.mjs"
+  }
+}

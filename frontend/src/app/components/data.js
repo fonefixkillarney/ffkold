@@ -1,0 +1,1 @@
+// add all the products data here by categories and use 4k images from anywhere

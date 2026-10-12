@@ -1,0 +1,10 @@
+{
+    "ignore": [
+        "scrape-checkpoint.json",
+        "scrape-report.json",
+        "category-structure.json",
+        "site-structure.json",
+        "*.log",
+        "_tmp-*"
+    ]
+}
